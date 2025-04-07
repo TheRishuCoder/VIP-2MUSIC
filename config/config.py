@@ -25,6 +25,9 @@ API_HASH = getenv("API_HASH","42a60d9c657b106370c79bb0a8ac560c")
 
 ## Get it from @Botfather in Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
+##lololol
+API_URL = getenv("API_URL", "https://api.thequickearn.xyz") #youtube song url
+API_KEY = getenv("API_KEY", None) # youtube song api key, get it from https://t.me/rishu1286
 
 
 # Database to save your chats and stats... Get MongoDB:-  https://telegra.ph/How-To-get-Mongodb-URI-04-06
